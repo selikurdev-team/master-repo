@@ -1,3 +1,4 @@
 Leader : Redo Rizkyansyah
-Staff : Jarvis
+Staff1 : Jarvis
+Staff2 : chatGPT
 Done.
